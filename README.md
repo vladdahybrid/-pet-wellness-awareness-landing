@@ -26,26 +26,13 @@
             font-size: 18px;
             color: #555;
         }
-        .btn {
-            background-color: #28a745;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            display: inline-block;
-            border-radius: 5px;
-            font-size: 18px;
-        }
-        .btn:hover {
-            background-color: #218838;
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Thank You for Completing the Survey!</h1>
-        <p>Your pet's health is important. As a special gift, we have emailed your <strong>Natural Pet Wellness Guide</strong>.</p>
+        <p>Your pet's health is important. As a special gift, we have emailed you <strong>5-Free Natural Pet Wellness Guide</strong>.</p>
         <p>Click below to check your email for the guide.</p>
-        <a href="YOUR_CONFIRMATION_PAGE_URL" class="btn">Finish survey</a>
     </div>
 </body>
 </html>
