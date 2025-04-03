@@ -32,7 +32,7 @@
     <div class="container">
         <h1>Thank You for Completing the Survey!</h1>
         <p>Your pet's health is important. As a special gift, we have emailed you <strong>5-Free Natural Pet Wellness Guide</strong>.</p>
-        <p>Click below to check your email for the guide.</p>
+        <p>Check your email for the guide.</p>
     </div>
 </body>
 </html>
