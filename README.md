@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +45,7 @@
         <h1>Thank You for Completing the Survey!</h1>
         <p>Your pet's health is important. As a special gift, we have emailed your <strong>Natural Pet Wellness Guide</strong>.</p>
         <p>Click below to check your email for the guide.</p>
-        <a href="YOUR_CONFIRMATION_PAGE_URL" class="btn">Check Your Email</a>
+        <a href="YOUR_CONFIRMATION_PAGE_URL" class="btn">Finish survey</a>
     </div>
 </body>
 </html>
