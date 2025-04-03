@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Natural Pet Wellness Guide</title>
     <style>
@@ -42,8 +43,9 @@
 <body>
     <div class="container">
         <h1>Thank You for Completing the Survey!</h1>
-        <p>Your pet's health is important. As a special gift, get your FREE copy of the <strong>Natural Pet Wellness Guide</strong> now.</p>
-        <a href="YOUR_BOOK_DOWNLOAD_LINK" class="btn">Download Now</a>
+        <p>Your pet's health is important. As a special gift, we have emailed your <strong>Natural Pet Wellness Guide</strong>.</p>
+        <p>Click below to check your email for the guide.</p>
+        <a href="YOUR_CONFIRMATION_PAGE_URL" class="btn">Check Your Email</a>
     </div>
 </body>
 </html>
